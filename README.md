@@ -16,10 +16,11 @@ Flask
 PyPDF
 python-dotenv
 You can install these dependencies by running:
-
+```
 bash
 Copy code
 pip install -r requirements.txt
+```
 Project Structure
 
 src/helper.py: Contains utility functions for loading embeddings, splitting text, and downloading Hugging Face embeddings.
