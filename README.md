@@ -36,7 +36,9 @@ PINECONE_API_ENV=your_pinecone_api_environment
 Run the Flask application:
 bash
 Copy code
+```
 python app.py
+```
 The chatbot will be accessible at http://127.0.0.1:5000/.
 Access the chatbot through the web interface or send POST requests to http://127.0.0.1:5000/get with the user's message.
 Customization
